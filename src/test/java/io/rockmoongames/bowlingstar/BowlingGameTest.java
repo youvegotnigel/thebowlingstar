@@ -1,6 +1,8 @@
 package io.rockmoongames.bowlingstar;
 
-import org.junit.jupiter.api.Test;
+
+import org.testng.annotations.Test;
+
 
 public class BowlingGameTest {
 
@@ -11,6 +13,11 @@ public class BowlingGameTest {
 
     @Test
     public void jessicaTestTwo(){
+
+    }
+
+    @Test
+    public void jessicaTestThree(){
 
     }
 }
